@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.sr-only {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
